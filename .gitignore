@@ -1,0 +1,11 @@
+__pycache__
+.ipynb_checkpoints
+.snakemake
+.DS_Store
+handout.aux
+handout.bbl
+handout.blg
+handout.log
+handout.out
+handoutNotes.bib
+rsc-handout.bib
